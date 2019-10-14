@@ -14,6 +14,9 @@ Here are several questions that I'm interested in asking
 5. Change in PLE and change in school performance, does it worsen overtime  
 6. Does perceived social support mediate the negative effect of PLE
 
+## Participants 
+The baseline version consists of 141 participant responses. Due to some data collection mistakes there are a lot of missing values. *(review Stats 102B)*
+
 ## Surveys 
 
 ### CAPE
@@ -26,7 +29,26 @@ It has 18 positive symptom items, 14 negative symptom items and 8 depressive sym
 
 **depressive symptom sample question**: Do you ever feel pessimistic about everything?
 
+A preliminary principal component analysis on 42 items.
+
+```R
+pca_cape_a <- prcomp(cape_a, center = T, scale = T) 
+ggbiplot(pca_cape_a)
+```
+
+![](https://github.com/mtpan/LASO/blob/master/PCA_all_items_biplot.png)
+
+![](https://github.com/mtpan/LASO/blob/master/PCA_biplot.png)
+
+
+
+
+
+
+
 ### Chapman Anhedonia 
+
+
 
 
 ## Notes 
