@@ -59,3 +59,5 @@ https://link.springer.com/article/10.1007/s00127-003-0622-7
 https://academic.oup.com/schizophreniabulletin/article/42/1/34/2518916
 
 https://link.springer.com/article/10.1186/s12888-019-2210-8
+
+[use IRT in R](https://blog.dominodatalab.com/item-response-theory-r-survey-analysis/)
