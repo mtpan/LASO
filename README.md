@@ -61,3 +61,7 @@ https://academic.oup.com/schizophreniabulletin/article/42/1/34/2518916
 https://link.springer.com/article/10.1186/s12888-019-2210-8
 
 [use IRT in R](https://blog.dominodatalab.com/item-response-theory-r-survey-analysis/)
+
+[additional material to help understand IRT](https://www.metheval.uni-jena.de/irt/VisualIRT.pdf)
+
+[also this one] (https://www.personality-project.org/r/book/Chapter8.pdf)
