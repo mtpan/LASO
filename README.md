@@ -52,16 +52,22 @@ ggbiplot(pca_cape_a)
 
 
 ## Notes 
-[papers i need to finish reading](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BA0A9032B266E8CFFBA3E3B8B762E41C/S0033291701005141a.pdf/evidence_that_three_dimensions_of_psychosis_have_a_distribution_in_the_general_population.pdf)
 
-https://link.springer.com/article/10.1007/s00127-003-0622-7
+#### CAPE Papers 
+- [papers i need to finish reading](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BA0A9032B266E8CFFBA3E3B8B762E41C/S0033291701005141a.pdf/evidence_that_three_dimensions_of_psychosis_have_a_distribution_in_the_general_population.pdf)
 
-https://academic.oup.com/schizophreniabulletin/article/42/1/34/2518916
+- https://link.springer.com/article/10.1007/s00127-003-0622-7
 
-https://link.springer.com/article/10.1186/s12888-019-2210-8
+- https://academic.oup.com/schizophreniabulletin/article/42/1/34/2518916
 
-[use IRT in R](https://blog.dominodatalab.com/item-response-theory-r-survey-analysis/)
+- https://link.springer.com/article/10.1186/s12888-019-2210-8
 
-[additional material to help understand IRT](https://www.metheval.uni-jena.de/irt/VisualIRT.pdf)
+#### Item Response Theory
 
-[also this one] (https://www.personality-project.org/r/book/Chapter8.pdf)
+- [use IRT in R](https://blog.dominodatalab.com/item-response-theory-r-survey-analysis/)
+
+- [additional material to help understand IRT](https://www.metheval.uni-jena.de/irt/VisualIRT.pdf)
+
+- [also this one](https://www.personality-project.org/r/book/Chapter8.pdf)
+
+- [and this one](http://personality-project.org/r/book/)
