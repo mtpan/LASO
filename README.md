@@ -76,3 +76,6 @@ Might need to do factor analysis/PCA and select certain items out.
 - [also this one](https://www.personality-project.org/r/book/Chapter8.pdf)
 
 - [and this one](http://personality-project.org/r/book/)
+
+#### CTQ Childhood Maltreatment 
+- [this paper used CTQ and CAPE](https://www.sciencedirect.com/science/article/pii/S0920996414001170?via%3Dihub)
