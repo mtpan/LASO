@@ -65,6 +65,8 @@ Might need to do factor analysis/PCA and select certain items out.
 
 - https://link.springer.com/article/10.1186/s12888-019-2210-8
 
+- [a papaer on multidimensional cape vs 3-dimension](https://www.sciencedirect.com/science/article/pii/S0920996415300347)
+
 #### Item Response Theory
 
 - [use IRT in R](https://blog.dominodatalab.com/item-response-theory-r-survey-analysis/)
