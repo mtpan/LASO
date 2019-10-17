@@ -42,9 +42,12 @@ ggbiplot(pca_cape_a)
 
 
 
+## Item Response Theory 
+![](https://github.com/mtpan/LASO/blob/master/rasch_model.png)
+![](https://github.com/mtpan/LASO/blob/master/item_information_curves.png)
 
-
-
+The information curves typically have similart height and width, suggesting that no particular item has larger discrimination than the others. 
+Might need to do factor analysis/PCA and select certain items out. 
 
 ### Chapman Anhedonia 
 
