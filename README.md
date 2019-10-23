@@ -67,7 +67,7 @@ Might need to do factor analysis/PCA and select certain items out.
 
 - [a papaer on multidimensional cape vs 3-dimension](https://www.sciencedirect.com/science/article/pii/S0920996415300347)
 
-- [they proposed the 9 subcategory but i need to double check](https://academic.oup.com/schizophreniabulletin/article/42/1/34/2518916)
+- [they proposed the 9 subcategory but i need to double check; they have 2 categories for pos including loadings](https://academic.oup.com/schizophreniabulletin/article/42/1/34/2518916)
 
 #### Item Response Theory
 
