@@ -63,6 +63,8 @@ Correlation tests show that the total, positive, negative, and depressive CAPE s
 
 ![](https://github.com/mtpan/LASO/blob/master/cape_anhed_total.png)
 
+![](https://github.com/mtpan/LASO/blob/master/cape_anhed_3_categories.png)
+
 Pearson's product-moment correlation
 
 |            | Physical | Social |
