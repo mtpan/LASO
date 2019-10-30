@@ -61,6 +61,16 @@ enjoyable if someone is with me.”).
 
 Correlation tests show that the total, positive, negative, and depressive CAPE scores are all positively correlated with both the physical scale and the social scale. 
 
+![](https://github.com/mtpan/LASO/blob/master/cape_anhed_total.png)
+
+Pearson's product-moment correlation
+
+|            | Physical | Social |
+|------------|----------|--------|
+| Positive   | 0.219    | 0.423  |
+| Negative   | 0.562    | 0.687  |
+| Depressive | 0.278    | 0.461  |
+| Total      | 0.446    | 0.643  |
 
 
 
