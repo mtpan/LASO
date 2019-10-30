@@ -51,6 +51,16 @@ Might need to do factor analysis/PCA and select certain items out.
 
 ### Chapman Anhedonia 
 
+- The Revised Physical Anhedonia Scale (Chapman & Chapman,1978) (61 items) assesses a self-reported deficit in the ability to experience pleasure from typically pleasurable physical stimuli such as food, sex, and settings (e.g., “Beautiful scenery
+has been a great delight to me.”).
+
+- The Revised Social Anhedonia Scale (Eckblad et al., 1982) (40 items) assesses
+deficits in the ability to experience pleasure from non physical stimuli such as other
+people, talking, exchanging expressions of feelings (e.g., “A car ride is much more
+enjoyable if someone is with me.”). 
+
+Correlation tests show that the total, positive, negative, and depressive CAPE scores are all positively correlated with both the physical scale and the social scale. 
+
 
 
 
