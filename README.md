@@ -13,6 +13,8 @@ Here are several questions that I'm interested in asking
 
 5. Change in PLE and change in school performance, does it worsen overtime  
 6. Does perceived social support mediate the negative effect of PLE
+7. What items from the screening questions can predict a high CAPE score
+8. What are the predictors that predict an elevated high CAPE score in the long run
 
 ## Participants 
 The baseline version consists of 141 participant responses. Due to some data collection mistakes there are a lot of missing values. *(review Stats 102B)*
