@@ -44,12 +44,25 @@ ggbiplot(pca_cape_a)
 
 
 
-## Item Response Theory 
+#### Item Response Theory 
 ![](https://github.com/mtpan/LASO/blob/master/rasch_model.png)
 ![](https://github.com/mtpan/LASO/blob/master/item_information_curves.png)
 
 The information curves typically have similart height and width, suggesting that no particular item has larger discrimination than the others. 
 Might need to do factor analysis/PCA and select certain items out. 
+
+#### Screening Questions
+- 18 questions were taken out from CAPE and used for Psych10 screening. 
+- Used Psych10 data from fall2018, winter2019, spring2019 (approximately 1500 participants)
+- From the tracking spreadsheet, 106 of them were asked back to do the baseline LASO 
+- Matched this 106 people to the existing LASO CAPE data (141 participants, duplicates included) 
+- 103 values used because of missing values 
+- Used the 18 questions as predictors, total CAPE score from their first baseline as an outcome variable, performed best subset regression, and based on lowest BIC, 4-variable model is the best model
+
+1. (CAPE 2) Do you ever feel as if people seem to drop hints about you or say things with a double meaning?
+4. (CAPE 7) Do you ever feel as if you are being persecuted in some way?
+10. (CAPE 26) Do you ever feel as if the thoughts in your head are not your own?
+15. (CAPE 34) Do you ever hear voices talking to each other when you are alone?
 
 ### Chapman Anhedonia 
 
