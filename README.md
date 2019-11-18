@@ -6,15 +6,15 @@ Recent research has indicated psychosis and psychotic disorders are better frame
 
 ## Research Questions 
 Here are several questions that I'm interested in asking 
-1. How prevalent are PLE in undergrad population?  
-2. The correlation between anhedonia and PLE (any similarity between PLE and SZ) 
-3. The correlation between childhood trauma and PLE (possible indicators of PLE)
-4. The correlation between school performance and PLE (how does it impact students) 
+- [] How prevalent are PLE in undergrad population?  
+- [x] The correlation between anhedonia and PLE (any similarity between PLE and SZ) 
+- [] The correlation between childhood trauma and PLE (possible indicators of PLE)
+- [] The correlation between school performance and PLE (how does it impact students) 
 
-5. Change in PLE and change in school performance, does it worsen overtime  
-6. Does perceived social support mediate the negative effect of PLE
-7. What items from the screening questions can predict a high CAPE score
-8. What are the predictors that predict an elevated high CAPE score in the long run
+- [] Change in PLE and change in school performance, does it worsen overtime  
+- [] Does perceived social support mediate the negative effect of PLE
+- [x] What items from the screening questions can predict a high CAPE score
+- [] What are the predictors that predict an elevated high CAPE score in the long run
 
 ## Participants 
 The baseline version consists of 141 participant responses. Due to some data collection mistakes there are a lot of missing values. *(review Stats 102B)*
@@ -52,17 +52,20 @@ The information curves typically have similart height and width, suggesting that
 Might need to do factor analysis/PCA and select certain items out. 
 
 #### Screening Questions
-- 18 questions were taken out from CAPE and used for Psych10 screening. 
+- 18 questions were taken out from CAPE and used for Psych10 screening
 - Used Psych10 data from fall2018, winter2019, spring2019 (approximately 1500 participants)
 - From the tracking spreadsheet, 106 of them were asked back to do the baseline LASO 
 - Matched this 106 people to the existing LASO CAPE data (141 participants, duplicates included) 
 - 103 values used because of missing values 
 - Used the 18 questions as predictors, total CAPE score from their first baseline as an outcome variable, performed best subset regression, and based on lowest BIC, 4-variable model is the best model
+- fit a 4-variable linear regression model using lm()
 
 1. (CAPE 2) Do you ever feel as if people seem to drop hints about you or say things with a double meaning?
 4. (CAPE 7) Do you ever feel as if you are being persecuted in some way?
 10. (CAPE 26) Do you ever feel as if the thoughts in your head are not your own?
 15. (CAPE 34) Do you ever hear voices talking to each other when you are alone?
+
+![](https://github.com/mtpan/LASO/blob/master/four_variable_CAPE.png)
 
 ### Chapman Anhedonia 
 
