@@ -6,15 +6,15 @@ Recent research has indicated psychosis and psychotic disorders are better frame
 
 ## Research Questions 
 Here are several questions that I'm interested in asking 
-- [] How prevalent are PLE in undergrad population?  
+- [ ] How prevalent are PLE in undergrad population?  
 - [x] The correlation between anhedonia and PLE (any similarity between PLE and SZ) 
-- [] The correlation between childhood trauma and PLE (possible indicators of PLE)
-- [] The correlation between school performance and PLE (how does it impact students) 
+- [ ] The correlation between childhood trauma and PLE (possible indicators of PLE)
+- [ ] The correlation between school performance and PLE (how does it impact students) 
 
-- [] Change in PLE and change in school performance, does it worsen overtime  
-- [] Does perceived social support mediate the negative effect of PLE
+- [ ] Change in PLE and change in school performance, does it worsen overtime  
+- [ ] Does perceived social support mediate the negative effect of PLE
 - [x] What items from the screening questions can predict a high CAPE score
-- [] What are the predictors that predict an elevated high CAPE score in the long run
+- [ ] What are the predictors that predict an elevated high CAPE score in the long run
 
 ## Participants 
 The baseline version consists of 141 participant responses. Due to some data collection mistakes there are a lot of missing values. *(review Stats 102B)*
