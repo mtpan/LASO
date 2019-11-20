@@ -67,6 +67,8 @@ Might need to do factor analysis/PCA and select certain items out.
 
 ![](https://github.com/mtpan/LASO/blob/master/four_variable_CAPE.png)
 
+*One question that arises from this: answers "Never", "sometimes", "Often", and "Always" are treated as numeric value 1 to 4 in the regression model, will it affect the results and interpretability?*
+
 ### Chapman Anhedonia 
 
 - The Revised Physical Anhedonia Scale (Chapman & Chapman,1978) (61 items) assesses a self-reported deficit in the ability to experience pleasure from typically pleasurable physical stimuli such as food, sex, and settings (e.g., “Beautiful scenery
