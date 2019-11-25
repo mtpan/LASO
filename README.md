@@ -21,9 +21,13 @@ The baseline version consists of 141 participant responses. Due to some data col
 
 ## Stats
 Updated on 11/21/19
+
 Baseline: 106 
+
 1st follow-up: 44
+
 2nd follow-up: 37 (including 6 participants who didn't do the 1st but did the 2rd) 
+
 3rd follow-up: 36 (including 6 participants who did the 1st but not the 2rd, 10 participants who didn't do 1st and 2rd, 4 particiapnts who did the 2rd but not the 1st)
 
 
