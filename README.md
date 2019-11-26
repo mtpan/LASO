@@ -107,6 +107,12 @@ Pearson's product-moment correlation
 | Total      | 0.446    | 0.643  |
 
 
+### BRIEF 
+
+Behavior Rating Inventory of Executive Function
+
+- Based on the original BRIEF, the BRIEF-A includes 75 items within nine nonoverlapping theoretically and empirically derived clinical scales: Inhibit, Self-Monitor, Plan/Organize, Shift, Initiate, Task Monitor, Emotional Control, Working Memory, and Organization of Materials.
+- Useful for a wide variety of developmental, systemic, neurological, and psychiatric disorders such as attention disorders, learning disabilities, autism spectrum disorders, traumatic brain injury, multiple sclerosis, depression, mild cognitive impairment, dementias, and schizophrenia.
 
 ## Notes 
 
