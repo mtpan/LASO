@@ -111,6 +111,14 @@ Pearson's product-moment correlation
 
 Behavior Rating Inventory of Executive Function
 
+Sample questions include: 
+- I have trouble changing from one activity or task to another 
+- I have a messy closet
+- I don't plan ahead for future activities
+- People say I'm easily distracted 
+
+Answers choices are Never, Sometimes, and Often. 
+
 - Based on the original BRIEF, the BRIEF-A includes 75 items within nine nonoverlapping theoretically and empirically derived clinical scales: Inhibit, Self-Monitor, Plan/Organize, Shift, Initiate, Task Monitor, Emotional Control, Working Memory, and Organization of Materials.
 - Useful for a wide variety of developmental, systemic, neurological, and psychiatric disorders such as attention disorders, learning disabilities, autism spectrum disorders, traumatic brain injury, multiple sclerosis, depression, mild cognitive impairment, dementias, and schizophrenia.
 
