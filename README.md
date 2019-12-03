@@ -20,7 +20,7 @@ Here are several questions that I'm interested in asking
 The baseline version consists of 141 participant responses. Due to some data collection mistakes there are a lot of missing values. *(review Stats 102B)*
 
 ## Stats
-Updated on 11/21/19
+Updated on 11/21/19. based on the tracking file 
 
 Baseline: 106 
 
@@ -29,6 +29,15 @@ Baseline: 106
 2nd follow-up: 37 (including 6 participants who didn't do the 1st but did the 2rd) 
 
 3rd follow-up: 36 (including 6 participants who did the 1st but not the 2rd, 10 participants who didn't do 1st and 2rd, 4 particiapnts who did the 2rd but not the 1st)
+
+
+Updated on 12/2/19. based on the data downloaded form SurveyMonkey 
+
+1st follow-up: 56
+
+2nd follow-up: 38 
+
+3rd follow-up: 48 
 
 
 ## Surveys 
