@@ -31,13 +31,31 @@ Baseline: 106
 3rd follow-up: 36 (including 6 participants who did the 1st but not the 2rd, 10 participants who didn't do 1st and 2rd, 4 particiapnts who did the 2rd but not the 1st)
 
 
-Updated on 12/2/19. based on the data downloaded form SurveyMonkey 
+Updated on 12/2/19. based on the data downloaded from SurveyMonkey 
 
 1st follow-up: 56
 
 2nd follow-up: 38 
 
 3rd follow-up: 48 
+
+Updated on 12/5/2019. based on the data downloaded on 12/2/2019, a joined file was created. They are calculated by 
+
+```r
+sum(!is.na(temp3$total.x))
+sum(!is.na(temp3$total.y))
+sum(!is.na(temp3$total.x.x))
+sum(!is.na(temp3$total.y.y))
+```
+If a participants skips a question, that will result in total = NA, so summing up total scores do not necessarily reflect how many people did the survey. Some people did the survey but left most of the questions blank are not included in the following stats. 
+
+baseline: 112
+
+1st follow-up: 52
+
+2nd follow-up: 35
+
+3rd follow-up: 44
 
 
 ## Surveys 
