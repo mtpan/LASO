@@ -57,6 +57,7 @@ baseline: 112
 
 3rd follow-up: 44
 
+Updated on 1/9/20. Removed Subject 10601 because the follow-up was done by another person. 
 
 ## Surveys 
 
@@ -178,3 +179,6 @@ Answers choices are Never, Sometimes, and Often.
 
 #### CTQ Childhood Maltreatment 
 - [this paper used CTQ and CAPE](https://www.sciencedirect.com/science/article/pii/S0920996414001170?via%3Dihub)
+
+#### PSQI Pittsburgh Sleep Quality Index 
+- [this paper assesses PLE and sleep quality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5955607/?report=classic)
