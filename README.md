@@ -57,7 +57,9 @@ baseline: 112
 
 3rd follow-up: 44
 
-Updated on 1/9/20. Removed Subject 10601 because the follow-up was done by another person. 
+### Data cleaning issues 
+1/9/20. Removed Subject 10601 because the follow-up was done by another person. 
+1/10/20. In baseline data there are two 10623. The one at 12:00 PM should be 10622. Need to change it on SurveyMonkey as well. 
 
 ## Surveys 
 
