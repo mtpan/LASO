@@ -27,12 +27,11 @@ Recent research has indicated psychosis and psychotic disorders are better frame
 Here are several questions that I'm interested in asking 
 
 - [x] The correlation between anhedonia and PLE (any similarity between PLE and SZ) 
+- [x] What items from the screening questions can predict a high CAPE score
 - [ ] The correlation between childhood trauma and PLE (possible indicators of PLE)
 - [ ] The correlation between school performance and PLE (how does it impact students) 
-
-- [ ] If there is a change in PLE, does it worthen overtime? If it does, how does it affect school performance/global functioning?  
-- [ ] Does perceived social support mediate/buffer the negative effect of PLE
-- [x] What items from the screening questions can predict a high CAPE score
+- [ ] If there is a change in PLE, does it worsen overtime? If it does, how does it affect school performance/global functioning?  
+- [ ] Does perceived social support mediate/buffer the negative effect of PLE on school performance/global functioning?
 - [ ] What are the predictors that predict an elevated high CAPE score in the long run
 
 ## Participants 
