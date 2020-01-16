@@ -1,37 +1,19 @@
 # LASO
 Longitudinal study of psychotic-like symptoms among undergraduate students in UCLA. 
 
-Students were recruited to do a baseline survey that measures psychotic-like experience, perceived social support, executive functioning, school performance, sleep quality, etc., and were invited to do follow-up surveys each quarter for a whole year. 
-
-## Table of Contents 
-[Background/Lit Review](https://github.com/mtpan/LASO#background)
-
-[Research Questions](https://github.com/mtpan/LASO#research-questions)
-
-[Participants](https://github.com/mtpan/LASO#participants)
-
-[Sample CAPE questions and PCA/Item Response Theory](https://github.com/mtpan/LASO#cape)
-
-[Analyzed which questions on the screening survey would predict a higher level of psychotic-like experience on the baseline survey](https://github.com/mtpan/LASO#screening-questions)
-
-[Anhedonia is correlated to psychotic-like experience in baseline data](https://github.com/mtpan/LASO#chapman-anhedonia)
-
-[Participants who reported higher level of psychotic-like experience also reported poorer overall executive functioning](https://github.com/mtpan/LASO#brief)
-
-
-
 ## Background 
 Recent research has indicated psychosis and psychotic disorders are better framed on a spectrum (Insel, 2010). Within this framework, some research has investigated psychotic-like experiences (PLE) in healthy populations. Many studies have shown psychotic-like experiences (PLE) such as persecution and thought interference, are prevalent in the general population with 7.2% of the population endorsing high levels, and these experiences show continuity with more severe clinical psychotic states (Hanssen, 2005; Barber, 2017). Moreover, high PLE functional impairments have shown similarities to clinically significant disorders, like schizophrenia in cognition and social functioning (Barber, 2017). Linscott and van Os (2013) further demonstrated that psychotic experience was more common among younger individuals and occurred in association with exposure to stressful or traumatic events. A study done by Kelleher and colleagues in 2015 shows that young people with psychotic experiences have poorer global functioning, and 75% of them also reported feeling distressed by their experiences. However, there has been little research on school performances in college students who report psychotic experiences. 
 
 ## Research Questions 
 Here are several questions that I'm interested in asking 
-
+- [ ] How prevalent are PLE in undergrad population?  
 - [x] The correlation between anhedonia and PLE (any similarity between PLE and SZ) 
-- [x] What items from the screening questions can predict a high CAPE score
 - [ ] The correlation between childhood trauma and PLE (possible indicators of PLE)
 - [ ] The correlation between school performance and PLE (how does it impact students) 
-- [ ] If there is a change in PLE, does it worsen overtime? If it does, how does it affect school performance/global functioning?  
-- [ ] Does perceived social support mediate/buffer the negative effect of PLE on school performance/global functioning?
+
+- [ ] Change in PLE and change in school performance, does it worsen overtime  
+- [ ] Does perceived social support mediate the negative effect of PLE
+- [x] What items from the screening questions can predict a high CAPE score
 - [ ] What are the predictors that predict an elevated high CAPE score in the long run
 
 ## Participants 
@@ -166,15 +148,29 @@ Sample questions include:
 - I don't plan ahead for future activities
 - People say I'm easily distracted 
 
-Answers choices are Never, Sometimes, and Often. 
+Answer choices are Never, Sometimes, and Often. 
 
 - Based on the original BRIEF, the BRIEF-A includes 75 items within nine nonoverlapping theoretically and empirically derived clinical scales: Inhibit, Self-Monitor, Plan/Organize, Shift, Initiate, Task Monitor, Emotional Control, Working Memory, and Organization of Materials.
 - Useful for a wide variety of developmental, systemic, neurological, and psychiatric disorders such as attention disorders, learning disabilities, autism spectrum disorders, traumatic brain injury, multiple sclerosis, depression, mild cognitive impairment, dementias, and schizophrenia.
 
 ![](https://github.com/mtpan/LASO/blob/master/Brief_CAPE_Corr.png)
 
-### PSQI (Pittusburgh Sleep Quality Index)
+
 ### ISEL (Interpersonal Support Eavluation List)
+
+1/16/20 finished scoring it (baseline)! 
+
+Sample questions include: 
+- If I wanted to go on a trip for a day (e.g., to the mountains, beach, or country), I would have a hard time finding someone to go with me.
+- I feel that there is no one I can share my most private worries and fears with. 
+- If I was stranded 10 miles from home, there is someone I could call who would come and get me. 
+
+Answer choices are Definitely True, Probably True, Definitely False, Probably False. 
+
+
+
+### PSQI (Pittusburgh Sleep Quality Index)
+
 ### CTQ (childhood trauma)
 ### NSSE (the National Survey of Student Engagement)
 
@@ -208,3 +204,7 @@ Answers choices are Never, Sometimes, and Often.
 
 #### PSQI Pittsburgh Sleep Quality Index 
 - [this paper assesses PLE and sleep quality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5955607/?report=classic)
+
+-[young people who self-identify as having subthreshold psychotic symptoms and who are therefore at risk for psychosis
+(Kline, Wilson, Ereshefsky, Tsuji, et al., 2012) may benefit from
+enhanced social support, Subthreshold psychotic symptom distress, self-stigma, and peer social support among college students with mental health concerns](https://sci-hub.tw/https://doi.org/10.1037/prj0000124)
