@@ -1,8 +1,23 @@
 # LASO
 Longitudinal study of psychotic-like symptoms among undergraduate students in UCLA. 
 
+Students were recruited to do a baseline survey that measures psychotic-like experience, perceived social support, executive functioning, school performance, sleep quality, etc., and were invited to do follow-up surveys each quarter for a whole year. 
 
-- [test](https://github.com/mtpan/LASO#background)
+
+[Background/Lit Review](https://github.com/mtpan/LASO#background)
+
+[Research Questions](https://github.com/mtpan/LASO#research-questions)
+
+[Participants](https://github.com/mtpan/LASO#participants)
+
+[Sample CAPE questions and PCA/Item Response Theory](https://github.com/mtpan/LASO#cape)
+
+[Analyzed which questions on the screening survey would predict a higher level of psychotic-like experience on the baseline survey](https://github.com/mtpan/LASO#screening-questions)
+
+[Anhedonia is correlated to psychotic-like experience in baseline data](https://github.com/mtpan/LASO#chapman-anhedonia)
+
+[Participants who reported higher level of psychotic-like experience also reported poorer overall executive functioning](https://github.com/mtpan/LASO#brief)
+
 
 
 ## Background 
