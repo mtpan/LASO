@@ -3,7 +3,7 @@ Longitudinal study of psychotic-like symptoms among undergraduate students in UC
 
 Students were recruited to do a baseline survey that measures psychotic-like experience, perceived social support, executive functioning, school performance, sleep quality, etc., and were invited to do follow-up surveys each quarter for a whole year. 
 
-
+## Table of Contents 
 [Background/Lit Review](https://github.com/mtpan/LASO#background)
 
 [Research Questions](https://github.com/mtpan/LASO#research-questions)
@@ -25,13 +25,13 @@ Recent research has indicated psychosis and psychotic disorders are better frame
 
 ## Research Questions 
 Here are several questions that I'm interested in asking 
-- [ ] How prevalent are PLE in undergrad population?  
+
 - [x] The correlation between anhedonia and PLE (any similarity between PLE and SZ) 
 - [ ] The correlation between childhood trauma and PLE (possible indicators of PLE)
 - [ ] The correlation between school performance and PLE (how does it impact students) 
 
-- [ ] Change in PLE and change in school performance, does it worsen overtime  
-- [ ] Does perceived social support mediate the negative effect of PLE
+- [ ] If there is a change in PLE, does it worthen overtime? If it does, how does it affect school performance/global functioning?  
+- [ ] Does perceived social support mediate/buffer the negative effect of PLE
 - [x] What items from the screening questions can predict a high CAPE score
 - [ ] What are the predictors that predict an elevated high CAPE score in the long run
 
