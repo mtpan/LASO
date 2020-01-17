@@ -186,7 +186,7 @@ Sample questions include:
 
 Answer choices are Definitely True, Probably True, Definitely False, Probably False. 
 
-
+![](https://github.com/mtpan/LASO/blob/master/isel_brief_cape_plot.png)
 
 ### PSQI (Pittusburgh Sleep Quality Index)
 
