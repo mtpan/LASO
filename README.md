@@ -188,6 +188,8 @@ Answer choices are Definitely True, Probably True, Definitely False, Probably Fa
 
 ![](https://github.com/mtpan/LASO/blob/master/isel_brief_cape_plot.png)
 
+I did a simple linear regression treating brief as the dependent variable and cape as the independent variable. The result is significant. In the multiple regression model with cape and isel as predictors, isel is not significant. In the multiple regression with interaction, isel and the interaction term are not significant. 
+
 ### PSQI (Pittusburgh Sleep Quality Index)
 
 ### CTQ (childhood trauma)
