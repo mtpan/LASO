@@ -104,7 +104,9 @@ ggbiplot(pca_cape_a)
 
 ![](https://github.com/mtpan/LASO/blob/master/PCA_biplot.png)
 
+### CAPE Follow-up
 
+![](https://github.com/mtpan/LASO/blob/master/cape_spaghetti.png)
 
 #### Item Response Theory 
 ![](https://github.com/mtpan/LASO/blob/master/rasch_model.png)
