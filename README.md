@@ -190,6 +190,13 @@ Answer choices are Definitely True, Probably True, Definitely False, Probably Fa
 
 I did a simple linear regression treating brief as the dependent variable and cape as the independent variable. The result is significant. In the multiple regression model with cape and isel as predictors, isel is not significant. In the multiple regression with interaction, isel and the interaction term are not significant. 
 
+
+![](https://github.com/mtpan/LASO/blob/master/moderation.png)
+
+Higher CAPE scores and BRIEF scores mean more PLEs and poorer global functions. Higher ISEL scores mean more perceived social support. 
+
+The result is not significant but we can see that for people with less perceived social support (black line), they tend to have more impaired global functions when they experience more PLEs. 
+
 ### PSQI (Pittusburgh Sleep Quality Index)
 
 ### CTQ (childhood trauma)
