@@ -177,6 +177,7 @@ Answer choices are Never, Sometimes, and Often.
 
 ![](https://github.com/mtpan/LASO/blob/master/Brief_CAPE_Corr.png)
 
+![](https://github.com/mtpan/LASO/blob/master/brief_total_spaghetti.png)
 
 ### ISEL (Interpersonal Support Eavluation List)
 
@@ -199,6 +200,8 @@ I did a simple linear regression treating brief as the dependent variable and ca
 Higher CAPE scores and BRIEF scores mean more PLEs and poorer global functions. Higher ISEL scores mean more perceived social support. 
 
 The result is not significant but we can see that for people with less perceived social support (black line), they tend to have more impaired global functions when they experience more PLEs. 
+
+![](https://github.com/mtpan/LASO/blob/master/isel_total_spaghetti.png)
 
 ### PSQI (Pittusburgh Sleep Quality Index)
 
