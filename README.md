@@ -177,7 +177,7 @@ Answer choices are Never, Sometimes, and Often.
 
 ![](https://github.com/mtpan/LASO/blob/master/Brief_CAPE_Corr.png)
 
-![](https://github.com/mtpan/LASO/blob/master/brief_total_spaghetti.png)
+![](https://github.com/mtpan/LASO/blob/master/brief_total_spaghetti_new.png)
 
 ### ISEL (Interpersonal Support Eavluation List)
 
@@ -190,7 +190,7 @@ Sample questions include:
 
 Answer choices are Definitely True, Probably True, Definitely False, Probably False. 
 
-![](https://github.com/mtpan/LASO/blob/master/isel_brief_cape_plot.png)
+![](https://github.com/mtpan/LASO/blob/master/isel_brief_cape.png)
 
 ![](https://github.com/mtpan/LASO/blob/master/temp3_cape_brief.png)
 
