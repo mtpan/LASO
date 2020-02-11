@@ -1,5 +1,6 @@
 # LASO
 Longitudinal study of psychotic-like symptoms among undergraduate students in UCLA. 
+Perceived social support and executive functioning in undergraduate students on psychotic-like experiences. 
 
 Students were recruited to do a baseline survey that measures psychotic-like experience, perceived social support, executive functioning, school performance, sleep quality, etc., and were invited to do follow-up surveys each quarter for a whole year. 
 
