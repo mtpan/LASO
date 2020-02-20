@@ -29,15 +29,14 @@ Here are several questions that I'm interested in asking
 - [ ] The correlation between childhood trauma and PLE (possible indicators of PLE)
 - [ ] The correlation between school performance and PLE (how does it impact students) 
 - [ ] If there is a change in PLE, does it worsen overtime? If it does, how does it affect school performance/global functioning?  
-- [ ] Does perceived social support mediate/buffer the negative effect of PLE on school performance/global functioning?
-			
+- [x] Does perceived social support moderate/buffer the negative effect of PLE on school performance/global functioning	
 - [ ] Change in PLE and change in school performance, does it worsen overtime  
-- [ ] Does perceived social support mediate the negative effect of PLE
 - [x] What items from the screening questions can predict a high CAPE score
 - [ ] What are the predictors that predict an elevated high CAPE score in the long run
+- [ ] How is the high PLE group different from the low PLE group? 
 
 ## Participants 
-The baseline version consists of 141 participant responses. Due to some data collection mistakes there are a lot of missing values. *(review Stats 102B)*
+The baseline version consists of 141 participant responses. Due to some data collection mistakes there are a lot of missing values. *(cleaned version contain 139)*
 
 ## Stats
 Updated on 11/21/19. based on the tracking file 
