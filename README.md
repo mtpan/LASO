@@ -179,6 +179,8 @@ Answer choices are Never, Sometimes, and Often.
 
 ![](https://github.com/mtpan/LASO/blob/master/brief_total_spaghetti_new.png)
 
+![](https://github.com/mtpan/LASO/blob/master/interaction_cape_brief.png)
+
 ### ISEL (Interpersonal Support Eavluation List)
 
 1/16/20 finished scoring it (baseline)! 
