@@ -222,6 +222,8 @@ Examples:
 
 ![](https://github.com/mtpan/LASO/blob/master/nsse_long.png)
 
+Should also include the corresponding CAPE plot because the people in this CAPE may not all be in the other CAPE_BRIEF plot. 
+
 ## Notes 
 
 #### CAPE Papers 
