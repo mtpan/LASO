@@ -210,7 +210,17 @@ The result is not significant but we can see that for people with less perceived
 ### PSQI (Pittusburgh Sleep Quality Index)
 
 ### CTQ (childhood trauma)
+
 ### NSSE (the National Survey of Student Engagement)
+
+11 questions in total. Answers are on 5-point scale, never, hardly ever, sometimes, most o the time, and all of the time. 
+
+Examples: 
+1. I feel overwhelmed by my school work. 
+4. I have trouble sleeping because I worry about my school work. 
+10. I worry about what the future holds. 
+
+
 
 ## Notes 
 
