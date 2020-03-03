@@ -220,7 +220,7 @@ Examples:
 4. I have trouble sleeping because I worry about my school work. 
 10. I worry about what the future holds. 
 
-
+![](https://github.com/mtpan/LASO/blob/master/nsse_long.png)
 
 ## Notes 
 
